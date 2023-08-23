@@ -1,6 +1,6 @@
 
 <div>
-    <div align= "left", size="50%">
+    <div align= "left">
         <img src = './images/PacMan1.png'>
     </div>
 </div>
